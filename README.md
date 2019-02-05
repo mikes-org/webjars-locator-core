@@ -30,6 +30,7 @@ Obtain all of the assets within a base folder
 
     WebJarAssetLocator locator = new WebJarAssetLocator();
     Set<String> fullPathsOfAssets = locator.listAssets("/multiple/1.0.0");
+    
 
 Advanced usage
 --------------
